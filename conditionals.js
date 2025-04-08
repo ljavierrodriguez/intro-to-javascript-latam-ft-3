@@ -79,3 +79,11 @@ if (a > b && a > c) {
 if (5 !== '5'){
     console.log("verdadero")
 }
+
+if (a > b || a > c || a > d){
+
+}
+
+if (a > b && a > c){
+    
+}
