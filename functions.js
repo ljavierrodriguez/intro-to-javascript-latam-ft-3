@@ -65,7 +65,9 @@ console.log(operaciones(funcion, 10, 10))
 const calcularPromedio = () => null
 const obtenerUsuarioPorId = () => null
 
-
+/* 
+* funcion para totalizar todos los valores recibidos
+*/
 function totalizar(valores){
     if (!Array.isArray(valores)) console.log("El parametro debe ser un array")
 }
